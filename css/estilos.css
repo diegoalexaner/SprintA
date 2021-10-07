@@ -12,6 +12,28 @@ h2 title{
     margin-bottom: 60px;
 }
 
+#navbar_logo {
+    width:80%;
+}
+
+#btn_irRegistro{
+    font-family: Georgia;
+    font-size: 16px;
+    line-height: 40px;
+    width: 100%;
+    color: #ffffff;
+    background-color: #a6d176;
+    border-radius: 6px;
+
+}
+#link_registro{
+    cursor: puntero;
+    text-decoration: none;
+}
+
+#btn_irRegistro :visited{
+    color: rgb(255, 255, 255);
+}
 
 
 section .articles img{
