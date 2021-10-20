@@ -1,4 +1,5 @@
 
+ 
 
 function validar_nombreUsuario(String){
    let input = document.getElementById("in_usuario");
